@@ -1,13 +1,23 @@
 # Hello, I'm Manushi 👋
 
-I'm a passionate Full-Stack Developer with a Master's in Computer Science from Northeastern University. With a blend of academic excellence and industry experience, I specialize in creating innovative software solutions.
+Full-Stack Developer | MS in Computer Science | 9+ Years of Experience
+Passionate about creating innovative, user-centric software solutions with expertise in React, Node.js, and Android development.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manushig&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manushig&layout=compact)
 
 ## 🚀 Skills
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 - **Languages:** Java, C#, Python, JavaScript
-- **Web Technologies:** React, Node.js, ASP.NET, HTML5/CSS3
+- **Web Technologies:** React, Node.js, ASP.NET, HTML5/CSS3, AngularJS, jQuery, Bootstrap
 - **Mobile Development:** Android
-- **Databases:** MySQL, Oracle, MongoDB, Firebase
-- **Tools & Frameworks:** Git, JIRA, Jenkins, ASP.NET MVC
+- **Databases:** MySQL, Oracle 11g, MongoDB, Couchbase, Firebase, SQLite
+- **Tools & Frameworks:** Git, JIRA, Jenkins, ASP.NET MVC, Entity Framework, Unity Framework
 
 ## 🎓 Education
 - **MS in Computer Science** - Northeastern University (GPA: 3.96)
@@ -17,16 +27,54 @@ I'm a passionate Full-Stack Developer with a Master's in Computer Science from N
 - **Senior Software Engineer** at Tesco (2010-2019)
   - Led development of critical store management systems
   - Spearheaded migration from PDAs to Android devices for 3000+ stores
+  - Pioneered Oracle PL/SQL solutions for seamless transactions
+  - Automated security patch updates, reducing update times for 150+ servers
 
 ## 🏆 Key Projects
-- **ShopEazy:** Full-stack online shopping platform (React, Node.js)
-- **Pawsome Pals:** Android-based social platform for dog lovers
-- **ASL Recognition System:** Real-time sign language recognition using MediaPipe and PyTorch
+
+### [ShopEazy](https://github.com/angela01190626/CS5610-Final-Project)
+A full-stack online shopping platform built with React and Node.js.
+- Features: User-friendly interface, efficient search functionality, secure user authentication (JWT), and social interaction.
+- Achievements: Responsive design, 95% user satisfaction rate.
+
+### [Pawsome Pals](https://github.com/manushig/Pawsome-Pals---A-Social-Media-Platform-for-Dog-Lovers)
+An Android-based social platform for dog lovers.
+- Features: Multi-method login, dynamic content feeds, interactive features, and personalized content.
+- Achievements: Scaled to 2,000+ users, 25% increase in search speed.
+
+### [Cross-Stitch Pattern Generator](https://github.com/manushig/ImageModel)
+An advanced image manipulation tool for creating cross-stitch patterns.
+- Features: Various image operations, filtering, color transformations, and pattern customization.
+- Achievements: User-friendly UI, efficient backend for pattern generation.
+
+### [ASL Recognition System](https://github.com/manushig/ASLGestureRecognition)
+Real-time American Sign Language recognition using MediaPipe and PyTorch.
+- Features: Real-time hand tracking, gesture recognition with 92%+ accuracy, text/speech output.
+- Achievements: Integrated MediaPipe and CNN for high-accuracy gesture classification.
+
+### [Deep Network Digit Recognition](https://github.com/manushig/RecognizationUsingDeepNetworks)
+A system for building and analyzing deep neural networks for handwritten digit recognition.
+- Features: High-accuracy digit recognition, network visualization, transfer learning, real-time recognition.
+- Achievements: Deployed live recognition system, showcased model adaptability.
+
+### [Real-time 2-D Object Recognition](https://github.com/manushig/ObjectDetection)
+A system for identifying and classifying objects on a white surface using an overhead camera.
+- Features: Real-time processing, advanced segmentation, dual classification methods, interactive training mode.
+- Achievements: High accuracy in identifying five distinct object types, optimized for real-time applications.
+
+## 💪 Strengths
+- Strong problem-solving and debugging skills
+- Excellent communicator and team player
+- Quick learner with a passion for new technologies
+- Experienced in Agile development methodologies
 
 ## 🌱 I'm currently...
 - Enhancing my skills in advanced React and Node.js
 - Open to new opportunities in software development
 - Looking to collaborate on innovative open-source projects
+
+## 🤝 Open to Opportunities
+I'm currently seeking full-stack developer roles where I can leverage my diverse skill set to create impactful software solutions. If you're looking for a dedicated and innovative developer, let's connect!
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/manushi-g/)
