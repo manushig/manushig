@@ -33,4 +33,7 @@ I'm a passionate Full-Stack Developer with a Master's in Computer Science from N
 - [Portfolio](https://manushi.netlify.app/)
 - Email: manushi.pro4@gmail.com
 
+## 📄 Resume
+You can download my detailed resume [here](https://manushig.github.io/resume/Manushi_Resume.pdf).
+
 Feel free to explore my repositories and reach out for collaborations or opportunities!
