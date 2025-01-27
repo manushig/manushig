@@ -52,6 +52,12 @@ Passionate about creating innovative, user-centric software solutions with exper
 
 ## 🏆 Key Projects
 
+### [AWS Serverless Task Manager API](https://github.com/manushig/aws-serverless-task-manager-ap)
+A serverless task management API built with AWS Lambda, API Gateway, and DynamoDB.
+- Features: CRUD operations for tasks, JWT authentication, pagination, rate limiting, and Swagger documentation.
+- Achievements: Implemented serverless architecture, optimized for scalability and cost-efficiency.
+
+
 ### [ShopEazy](https://github.com/angela01190626/CS5610-Final-Project)
 A full-stack online shopping platform built with React and Node.js.
 - Features: User-friendly interface, efficient search functionality, secure user authentication (JWT), and social interaction.
