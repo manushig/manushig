@@ -52,7 +52,7 @@ Passionate about creating innovative, user-centric software solutions with exper
 
 ## 🏆 Key Projects
 
-### [AWS Serverless Task Manager API](https://github.com/manushig/aws-serverless-task-manager-ap)
+### [AWS Serverless Task Manager API](https://github.com/manushig/aws-serverless-task-manager-api)
 A serverless task management API built with AWS Lambda, API Gateway, and DynamoDB.
 - Features: CRUD operations for tasks, JWT authentication, pagination, rate limiting, and Swagger documentation.
 - Achievements: Implemented serverless architecture, optimized for scalability and cost-efficiency.
