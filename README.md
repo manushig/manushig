@@ -33,11 +33,13 @@ Passionate about creating innovative, user-centric software solutions with exper
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-- **Languages:** Java, C#, Python, JavaScript
-- **Web Technologies:** React, Node.js, ASP.NET, HTML5/CSS3, AngularJS, jQuery, Bootstrap
-- **Mobile Development:** Android
-- **Databases:** MySQL, Oracle 11g, MongoDB, Couchbase, Firebase, SQLite
-- **Tools & Frameworks:** Git, JIRA, Jenkins, ASP.NET MVC, Entity Framework, Unity Framework
+- **Languages:** C#, TypeScript, JavaScript, Python, Java, SQL
+- **Frameworks & Libraries:** .NET Core, ASP.NET MVC, React.js, Angular, Node.js, FastAPI, Express.js, Bootstrap
+- **Backend & API Development:** RESTful APIs, Microservices, ASP.NET Web API, Express.js, API Gateway
+- **Databases:** SQL Server, Oracle PL/SQL, MongoDB, MySQL, SQLite
+- **Cloud & DevOps:** Azure (Functions, DevOps, App Services), AWS (Lambda, RDS, S3, ECS), Docker, Kubernetes, Jenkins, GitHub Actions
+- **Testing & Tools:** Postman, Swagger, Jest, Pytest, React Testing Library, NUnit, Selenium, Git, GitHub
+- **Security:** JWT, OAuth, RBAC, CORS
 
 ## 🎓 Education
 - **MS in Computer Science** - Northeastern University (GPA: 3.96)
@@ -51,6 +53,11 @@ Passionate about creating innovative, user-centric software solutions with exper
   - Automated security patch updates, reducing update times for 150+ servers
 
 ## 🏆 Key Projects
+
+### [Smile Detection App](https://github.com/manushig/smile-detection-app)
+A full-stack web app for real-time smile detection, featuring a React frontend and Python FastAPI backend with OpenCV.
+- Features: Start/stop detection, live webcam image with smile bounding box, displays coordinates, saves detection images and logs to SQLite.
+- Achievements: Delivered robust error handling, unit/integration tests, and clear, user-friendly UI.
 
 ### [AWS Serverless Task Manager API](https://github.com/manushig/aws-serverless-task-manager-api)
 A serverless task management API built with AWS Lambda, API Gateway, and DynamoDB.
