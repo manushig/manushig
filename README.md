@@ -1,7 +1,7 @@
 # Hello, I'm Manushi 👋
 
 Full-Stack Developer | MS in Computer Science | 9+ Years of Experience
-Passionate about creating innovative, user-centric software solutions with expertise in React, Node.js, and Android development.
+Passionate about creating innovative, user-centric software solutions with expertise in React, Node.js, .NET Core, and modern web technologies.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manushig&show_icons=true&theme=radical)
 
