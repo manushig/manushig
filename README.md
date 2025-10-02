@@ -45,13 +45,6 @@ Passionate about creating innovative, user-centric software solutions with exper
 - **MS in Computer Science** - Northeastern University (GPA: 3.96)
 - **BE in Computer Science** - MV Jayaram College of Engineering (GPA: 3.87)
 
-## 💼 Professional Experience
-- **Senior Software Engineer** at Tesco (2010-2019)
-  - Led development of critical store management systems
-  - Spearheaded migration from PDAs to Android devices for 3000+ stores
-  - Pioneered Oracle PL/SQL solutions for seamless transactions
-  - Automated security patch updates, reducing update times for 150+ servers
-
 ## 🏆 Key Projects
 
 ### [Smile Detection App](https://github.com/manushig/smile-detection-app)
@@ -118,3 +111,4 @@ I'm currently seeking full-stack developer roles where I can leverage my diverse
 You can download my detailed resume [here](https://manushig.github.io/resume/Manushi_Resume.pdf).
 
 Feel free to explore my repositories and reach out for collaborations or opportunities!
+
