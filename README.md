@@ -95,7 +95,6 @@ A system for identifying and classifying objects on a white surface using an ove
 - Experienced in Agile development methodologies
 
 ## 🌱 I'm currently...
-- Enhancing my skills in advanced React and Node.js
 - Open to new opportunities in software development
 - Looking to collaborate on innovative open-source projects
 
@@ -104,11 +103,6 @@ I'm currently seeking full-stack developer roles where I can leverage my diverse
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/manushi-g/)
-- [Portfolio](https://manushi.netlify.app/)
-- Email: manushi.pro4@gmail.com
 
-## 📄 Resume
-You can download my detailed resume [here](https://manushig.github.io/resume/Manushi_Resume.pdf).
-
-Feel free to explore my repositories and reach out for collaborations or opportunities!
+- Email: manushi.prof@gmail.com
 
